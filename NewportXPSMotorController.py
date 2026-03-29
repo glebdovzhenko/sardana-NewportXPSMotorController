@@ -1,4 +1,4 @@
-from newportXPS import XPS
+from newportxps.newportxps import XPS
 import time
 
 from sardana import State
